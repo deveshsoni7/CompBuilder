@@ -14,6 +14,7 @@ const Navbar = () => {
           <div className="icon"><HiSun /></div>
           <div className="icon"><FaUser /></div>
           <div className="icon"><RiSettings3Fill /></div>
+          
         </div>
       </div>
     </>
